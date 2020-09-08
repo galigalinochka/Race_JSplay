@@ -1,0 +1,9 @@
+.hide {
+    display: none;
+}
+
+.car {
+   width: 100px;
+   height: 180px;
+    background: transparent url('./img/enemy1.png') center / cover no-repeat ;
+}
